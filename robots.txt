@@ -1,0 +1,45 @@
+# Robots.txt for ki.contraco.de
+
+# Allow all crawlers to access all content
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /.git/
+
+# AI answer engines, allowed (surface content in AI-generated answers)
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+# AI training scrapers, blocked (do not use content for model training)
+User-agent: GPTBot
+Disallow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: Claude-Web
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: omgili
+Disallow: /
+
+User-agent: FacebookBot
+Disallow: /
+
+# XML Sitemap location
+Sitemap: https://ki.contraco.de/sitemap.xml
