@@ -1,0 +1,26 @@
+# KI-Begriffe für Entscheider, contraco
+
+> 25 KI-Begriffe aus Vorstandsvorlagen und Anbietergesprächen in Klartext erklärt, jeweils mit einem Beispiel aus dem Geschäftsalltag. Von contraco.
+
+ki.contraco.de ist das Glossar von contraco für Entscheider, die KI-Angebote prüfen, Budgets freigeben und Verantwortung zuweisen.
+
+## Themen
+
+- Grundlagen, von Large Language Model und Token bis Open-Weight-Modell
+- Arbeiten mit KI, von Prompt und Copilot bis RAG
+- Qualität und Risiko, von Halluzination bis Schatten-KI
+- Agenten, Agentic Commerce und Agentenregister
+- Steuerung und Kosten, von Inferenz bis KI-Verordnung
+
+## Über contraco
+
+contraco ist eine 1998 gegründete Beratung für digitale Transformation mit Schwerpunkt auf KI-Governance und agentischem Handel.
+
+- [contraco.de](https://contraco.de)
+- [Agentic Commerce Glossar](https://contraco.de/agentic-commerce-glossar.html)
+
+## Seiten
+
+<!-- AUTO-PAGES:START -->
+- [KI-Begriffe für Entscheider](https://ki.contraco.de/)
+<!-- AUTO-PAGES:END -->
